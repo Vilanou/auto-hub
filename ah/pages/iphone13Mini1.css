@@ -1,0 +1,585 @@
+.iphone-13-mini-1 .auto-hub {
+  margin: 0 73px 10px 0;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 34.2px;
+  color: #FFFFFF;
+}
+.iphone-13-mini-1 .drivers {
+  position: absolute;
+  left: 8px;
+  bottom: -5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 22.8px;
+  color: #FFFFFF;
+}
+.iphone-13-mini-1 .frame-2 {
+  position: relative;
+  width: 111px;
+  height: 30px;
+}
+.iphone-13-mini-1 .group-2 {
+  margin: 0 8px 5px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 111px;
+  height: 30px;
+  box-sizing: border-box;
+}
+.iphone-13-mini-1 .featured {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 22.8px;
+  color: #FFFFFF;
+}
+.iphone-13-mini-1 .group-4 {
+  margin-top: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.iphone-13-mini-1 .container-1 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.iphone-13-mini-1 .container-3 {
+  background: linear-gradient(90deg, #0500FF, #FA00FF);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 13px 33.9px 5px 0;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.iphone-13-mini-1 .starters {
+  position: absolute;
+  right: 6.6px;
+  bottom: -5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 22.8px;
+  color: #FFFFFF;
+}
+.iphone-13-mini-1 .frame-1 {
+  position: relative;
+  width: 104px;
+  height: 22px;
+}
+.iphone-13-mini-1 .group-1 {
+  position: absolute;
+  left: 0px;
+  bottom: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 104px;
+  height: 22px;
+  box-sizing: border-box;
+}
+.iphone-13-mini-1 .rectangle-2 {
+  border-radius: 11px;
+  background: rgba(255, 255, 255, 0.36);
+  position: absolute;
+  left: 8px;
+  bottom: 6px;
+  width: 108px;
+  height: 22px;
+}
+.iphone-13-mini-1 .group-5 {
+  position: relative;
+  margin-bottom: 54px;
+  padding-left: 7px;
+  width: 382px;
+  box-sizing: border-box;
+}
+.iphone-13-mini-1 .images-12 {
+  background: url('../assets/images/images12.jpeg') 50% / cover no-repeat;
+  margin: 0 0 19px 6px;
+  width: 250px;
+  height: 200px;
+}
+.iphone-13-mini-1 .maruti-suzuki-alto-800 {
+  margin: 0 4px 18px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 22.8px;
+  color: #000000;
+}
+.iphone-13-mini-1 .this-is-one-of-the-most-affordable-cars-in-india-making-it-agood-choice-for-budget-minded-buyers {
+  margin-right: 7.6px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 200;
+  font-size: 22.8px;
+  color: #000000;
+}
+.iphone-13-mini-1 .group-19 {
+  background: #D9D9D9;
+  position: relative;
+  margin: 0 3px 54px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px 0 19px 0;
+  width: calc(100% - 3px);
+  box-sizing: border-box;
+}
+.iphone-13-mini-1 .images-13 {
+  background: url('../assets/images/images13.jpeg') 50% / cover no-repeat;
+  margin: 0 0 15px 8px;
+  width: 250px;
+  height: 200px;
+}
+.iphone-13-mini-1 .maruti-suzuki-spresso {
+  margin: 0 0 11px 2.3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 22.8px;
+  color: #000000;
+}
+.iphone-13-mini-1 .maruti-suzuki-spresso-this-small-hatchback-offers-amore-stylish-design-than-the-alto-800-and-it-comes-with-afew-more-features-as-well {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 200;
+  font-size: 22.8px;
+  color: #000000;
+}
+.iphone-13-mini-1 .group-37 {
+  background: #D9D9D9;
+  position: relative;
+  margin: 0 3px 54px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 29px 30px 7px 30px;
+  width: calc(100% - 3px);
+  box-sizing: border-box;
+}
+.iphone-13-mini-1 .images-14 {
+  background: url('../assets/images/images14.jpeg') 50% / cover no-repeat;
+  margin: 0 0 63px 11px;
+  width: 250px;
+  height: 200px;
+}
+.iphone-13-mini-1 .this-tall-hatchback-is-known-for-its-spacious-interior-and-comfortable-ride {
+  margin-right: 10.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 200;
+  font-size: 22.8px;
+  color: #000000;
+}
+.iphone-13-mini-1 .maruti-suzuki-wagon-r {
+  position: absolute;
+  right: 39.4px;
+  bottom: 190px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 22.8px;
+  color: #000000;
+}
+.iphone-13-mini-1 .group-21 {
+  background: #D9D9D9;
+  position: relative;
+  margin: 0 3px 54px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 16px 0 64px 0;
+  width: calc(100% - 3px);
+  box-sizing: border-box;
+}
+.iphone-13-mini-1 .images-15 {
+  background: url('../assets/images/images15.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  top: 18px;
+  right: 37px;
+  width: 250px;
+  height: 200px;
+}
+.iphone-13-mini-1 .this-hatchback-is-agood-value-for-the-price-offering-adecent-amount-of-features-for-the-money {
+  position: absolute;
+  left: 30px;
+  bottom: 38px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 200;
+  font-size: 22.8px;
+  color: #000000;
+}
+.iphone-13-mini-1 .maruti-suzuki-celerio {
+  position: absolute;
+  right: 39.4px;
+  bottom: 188px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 22.8px;
+  color: #000000;
+}
+.iphone-13-mini-1 .container-2 {
+  background: #D9D9D9;
+  position: relative;
+  margin: 0 3px 54px 0;
+  width: 334px;
+  height: 451px;
+}
+.iphone-13-mini-1 .images-16 {
+  background: url('../assets/images/images2.jpeg') 50% / cover no-repeat;
+  margin: 0 5px 16px 0;
+  width: 250px;
+  height: 200px;
+}
+.iphone-13-mini-1 .tata-altroz {
+  margin: 0 5.5px 18px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 22.8px;
+  color: #000000;
+}
+.iphone-13-mini-1 .this-premium-hatchback-is-another-good-option-for-those-who-want-asmall-car-with-aspacious-interior-and-along-list-of-features {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 200;
+  font-size: 22.8px;
+  color: #000000;
+}
+.iphone-13-mini-1 .group-38 {
+  background: #D9D9D9;
+  position: relative;
+  margin-bottom: 54px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 27px 18px 31px 18px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.iphone-13-mini-1 .tata-punch {
+  position: absolute;
+  left: 50%;
+  bottom: 2px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 22.8px;
+  color: #000000;
+}
+.iphone-13-mini-1 .container {
+  background: url('../assets/images/images17.jpeg') 50% / cover no-repeat;
+  position: relative;
+  margin: 0 17px 64px 17px;
+  align-self: flex-start;
+  width: 250px;
+  height: 200px;
+}
+.iphone-13-mini-1 .this-micro-suv-is-agood-choice-for-those-who-want-asmall-car-with-abit-more-space-and-ruggedness {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 200;
+  font-size: 22.8px;
+  color: #000000;
+}
+.iphone-13-mini-1 .group-25 {
+  background: #D9D9D9;
+  position: relative;
+  margin-bottom: 54px;
+  display: flex;
+  flex-direction: column;
+  padding: 27px 0 28px 14px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.iphone-13-mini-1 .images-18 {
+  background: url('../assets/images/images18.jpeg') 50% / cover no-repeat;
+  margin: 0 12px 29px 12px;
+  align-self: flex-start;
+  width: 250px;
+  height: 200px;
+}
+.iphone-13-mini-1 .hyundai-grand-i-10-nios {
+  margin: 0 1px 17px 1px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 22.8px;
+  color: #000000;
+}
+.iphone-13-mini-1 .this-is-awell-rounded-hatchback-that-offers-acomfortable-ride-aspacious-interior-and-agood-list-of-features {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 200;
+  font-size: 22.8px;
+  color: #000000;
+}
+.iphone-13-mini-1 .group-26 {
+  background: #D9D9D9;
+  position: relative;
+  margin-bottom: 54px;
+  display: flex;
+  flex-direction: column;
+  padding: 27px 0 19px 19px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.iphone-13-mini-1 .images-19 {
+  background: url('../assets/images/images19.jpeg') 50% / cover no-repeat;
+  margin: 0 1px 18px 1px;
+  align-self: flex-start;
+  width: 250px;
+  height: 200px;
+}
+.iphone-13-mini-1 .hyundai-santro-xing {
+  margin: 0 0 26px 8.7px;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 22.8px;
+  color: #000000;
+}
+.iphone-13-mini-1 .santro-model-and-was-available-in-both-petrol-and-cng-variants-the-santro-xing-was-apopular-choice-in-the-indian-market-due-to-its-affordability-fuel-efficiency-and-spacious-interiors {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 200;
+  font-size: 22.8px;
+  color: #000000;
+}
+.iphone-13-mini-1 .group-39 {
+  background: #D9D9D9;
+  position: relative;
+  margin-bottom: 54px;
+  display: flex;
+  flex-direction: column;
+  padding: 27px 0 14px 30px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.iphone-13-mini-1 .images-20 {
+  background: url('../assets/images/images20.jpeg') 50% / cover no-repeat;
+  margin: 0 0 16px 8.5px;
+  width: 250px;
+  height: 213px;
+}
+.iphone-13-mini-1 .maruti-ignis {
+  margin: 0 25px 26px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 22.8px;
+  color: #000000;
+}
+.iphone-13-mini-1 .the-maruti-ignis-is-asubcompact-hatchback-manufactured-by-maruti-suzuki-an-indian-automaker-it-is-positioned-as-atough-urban-vehicle-known-for-its-bold-design-spacious-interior-for-its-size-and-peppy-performance {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 200;
+  font-size: 22.8px;
+  color: #000000;
+}
+.iphone-13-mini-1 .group-40 {
+  background: #D9D9D9;
+  position: relative;
+  margin-bottom: 54px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 37px 33.5px 18px 26px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.iphone-13-mini-1 .images-21 {
+  background: url('../assets/images/images21.jpeg') 50% / cover no-repeat;
+  margin: 0 0 81px 30px;
+  align-self: center;
+  width: 250px;
+  height: 200px;
+}
+.iphone-13-mini-1 .the-maruti-ritz-was-ahatchback-car-that-was-produced-by-maruti-suzuki-india-limited-from-2009-to-2017-it-was-positioned-as-areplacement-for-the-maruti-suzuki-swift-the-ritz-was-available-in-both-petrol-and-diesel-variants-and-it-was-known-for-its-spacious-interiors-fuel-efficiency-and-affordability {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 200;
+  font-size: 22.8px;
+  color: #000000;
+}
+.iphone-13-mini-1 .group-41 {
+  background: #D9D9D9;
+  position: relative;
+  margin-bottom: 54px;
+  display: flex;
+  flex-direction: column;
+  padding: 24px 0 24px 19px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.iphone-13-mini-1 .images-22 {
+  background: url('../assets/images/images22.jpeg') 50% / cover no-repeat;
+  margin: 0 0 14px 1px;
+  width: 250px;
+  height: 200px;
+}
+.iphone-13-mini-1 .honda-jazz {
+  margin: 0 16.6px 31px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 22.8px;
+  color: #000000;
+}
+.iphone-13-mini-1 .the-honda-jazz-though-discontinued-since-2020-was-apopular-hatchback-in-the-indian-market-known-for-its-spacious-interiors-comfort-and-reliability {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 22.8px;
+  color: #000000;
+}
+.iphone-13-mini-1 .group-42 {
+  background: #D9D9D9;
+  position: relative;
+  margin-bottom: 143px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 31px 26px 29px 26px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.iphone-13-mini-1 .images-23 {
+  background: url('../assets/images/images23.jpeg') 50% / cover no-repeat;
+  margin: 0 0 38.4px 1.3px;
+  width: 250px;
+  height: 207.3px;
+}
+.iphone-13-mini-1 .the-tata-nano-is-adiscontinued-city-carmicrocar-that-was-made-and-produced-by-indian-automaker-tata-motors-over-asingle-generation-primarily-in-india-it-was-designed-as-an-inexpensive-rear-engined-hatchback-intended-to-appeal-to-current-riders-of-motorcycles-and-scooters-with-alaunch-price-of-100000-us-1300-on-10-january-2008 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 200;
+  font-size: 22.8px;
+  color: #000000;
+}
+.iphone-13-mini-1 .tata-nano {
+  position: absolute;
+  left: 109px;
+  top: 222.9px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 22.8px;
+  color: #000000;
+}
+.iphone-13-mini-1 .group-43 {
+  position: absolute;
+  left: 0px;
+  top: 12.4px;
+  right: 0.3px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.iphone-13-mini-1 .container-4 {
+  background: #D9D9D9;
+  position: relative;
+  margin-bottom: 54px;
+  width: 337px;
+  height: 679.1px;
+}
+.iphone-13-mini-1 .alto-k-10 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 22.8px;
+  color: #000000;
+}
+.iphone-13-mini-1 .rectangle-30 {
+  background: #D9D9D9;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.iphone-13-mini-1 .alto-k-101 {
+  margin: 0 6.7px 13.6px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 35.3px;
+  color: #000000;
+}
+.iphone-13-mini-1 .show-drafts-volume-up-the-maruti-suzuki-alto-k-10-is-ahatchback-car-that-is-popular-in-india-it-is-known-for-its-affordability-fuel-efficiency-and-maneuverability-the-latest-model-was-launched-in-april-2023 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 200;
+  font-size: 35.3px;
+  color: #000000;
+}
+.iphone-13-mini-1 .group-56 {
+  position: absolute;
+  left: 0px;
+  right: 9.6px;
+  bottom: 0.8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.iphone-13-mini-1 .group-44 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 479.4px 0 357.1px 42.9px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.iphone-13-mini-1 .frame-44 {
+  margin: 0 21px 0 17px;
+  display: flex;
+  flex-direction: column;
+  width: calc(100% - 38px);
+  box-sizing: border-box;
+}
+.iphone-13-mini-1 {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 26.5px;
+  box-sizing: border-box;
+}

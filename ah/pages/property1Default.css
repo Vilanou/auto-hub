@@ -1,0 +1,88 @@
+.property-1-default .drivers {
+  position: absolute;
+  left: 8px;
+  bottom: -5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 22.8px;
+  color: #FFFFFF;
+}
+.property-1-default .frame-2 {
+  position: relative;
+  width: 111px;
+  height: 30px;
+}
+.property-1-default .group-2 {
+  margin-bottom: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 111px;
+  height: 30px;
+  box-sizing: border-box;
+}
+.property-1-default .featured {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 22.8px;
+  color: #FFFFFF;
+}
+.property-1-default .group-4 {
+  margin-top: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.property-1-default .container {
+  background: linear-gradient(90deg, #0500FF, #FA00FF);
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 65px 33.9px 5px 0;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.property-1-default .starters {
+  position: absolute;
+  right: 6.6px;
+  bottom: -5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 22.8px;
+  color: #FFFFFF;
+}
+.property-1-default .frame-1 {
+  position: relative;
+  width: 104px;
+  height: 22px;
+}
+.property-1-default .group-1 {
+  position: absolute;
+  left: 0px;
+  bottom: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 104px;
+  height: 22px;
+  box-sizing: border-box;
+}
+.property-1-default .rectangle-2 {
+  border-radius: 11px;
+  background: rgba(255, 255, 255, 0.36);
+  position: absolute;
+  left: 8px;
+  bottom: 6px;
+  width: 108px;
+  height: 22px;
+}
+.property-1-default {
+  padding-left: 7px;
+  box-sizing: border-box;
+}
